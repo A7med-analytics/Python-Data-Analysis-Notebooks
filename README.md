@@ -1,11 +1,53 @@
+<div align="center">
+
+# 🐍 Python Data Analysis & Engineering
+
+### From Raw Data to Meaningful Insights
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+</p>
+
+<p>
+A collection of practical Python projects exploring Data Analysis,
+API Integration, Data Wrangling, and Database Engineering.
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/a7med-alaa121206">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://ahmedalaa-analytics1.odoo.com">
+<img src="https://img.shields.io/badge/Portfolio-Explore-714B67?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+</p>
+
+</div>
+
+---
+
+## 📌 About This Repository
+
+This repository showcases my practical journey in **Python for Data Analytics and Engineering**.
+
+It contains hands-on Jupyter Notebooks covering real-world analytical workflows, from collecting raw data through APIs to cleaning, transforming, analyzing, and storing structured datasets.
+
+My goal is to build practical solutions that combine analytical thinking with programming and database technologies.
+
+---
+
 ## 📂 Projects & Notebooks
 
-<table align="center" width="85%">
+<table>
 <thead>
 <tr>
-<th width="36%">Project</th>
-<th width="20%">Technologies</th>
-<th width="44%">Key Highlights</th>
+<th>Project</th>
+<th>Technologies</th>
+<th>Key Highlights</th>
 </tr>
 </thead>
 <tbody>
@@ -60,3 +102,163 @@
 
 </tbody>
 </table>
+
+---
+
+## 🛠️ Tools & Technologies I Work With
+
+### 💻 Programming & Development
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+</p>
+
+### 🗄️ Databases & SQL
+
+<p>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Stored_Procedures-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+### 📊 Business Intelligence & Data Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/EDA-2088FF?style=for-the-badge&logo=analogue&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Wrangling-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Storytelling-E67E22?style=for-the-badge&logo=tableau&logoColor=white">
+</p>
+
+### 🧪 Python Libraries & Data Science
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+</p>
+
+### 📈 Statistical Analysis, Modeling & Web Scraping
+
+<p>
+<img src="https://img.shields.io/badge/Predictive_Modeling-8E44AD?style=for-the-badge&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/Regression_Analysis-2C3E50?style=for-the-badge&logo=googleanalytics&logoColor=white">
+<img src="https://img.shields.io/badge/BeautifulSoup-Web_Scraping-59666C?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+### 📉 Data Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Folium-77B800?style=for-the-badge&logo=leaflet&logoColor=white">
+</p>
+
+---
+
+## 📚 Key Learning Areas
+
+| Area | Practical Skills |
+|---|---|
+| Data Analysis | Exploratory Data Analysis (EDA) |
+| Data Wrangling | Missing Values, Mapping & Transformation |
+| API Integration | HTTP Requests, REST APIs & JSON |
+| Database Engineering | SQLite & Data Persistence |
+| Python Programming | Functions, Libraries & Data Structures |
+| Statistical Analysis | Regression Analysis & Predictive Modeling |
+| Data Visualization | Matplotlib, Seaborn, Plotly & Dash |
+| Web Scraping | BeautifulSoup |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/A7med-analytics/Python-Data-Analysis-Notebooks.git
+
+cd Python-Data-Analysis-Notebooks
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install pandas numpy requests jupyter
+```
+
+### 3. Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+### 4. Explore the Projects
+
+Open any notebook and run the cells to explore the analysis and implementation.
+
+---
+
+## 📁 Repository Structure
+
+```text
+Python-Data-Analysis-Notebooks/
+│
+├── Developer Survey EDA & Data Wrangling.ipynb
+│
+├── Job Market API Data Ingestion & SQL ETL.ipynb
+│
+├── Python HTTP & API Requests Essentials.ipynb
+│
+└── README.md
+```
+
+---
+
+## 👨‍💻 About the Author
+
+<div align="center">
+
+### Ahmed Alaa
+
+**Data Analyst | Business Intelligence Enthusiast**
+
+Computer Science & Artificial Intelligence Student  
+Zagazig National University | Class of 2029
+
+Certified Data Analyst Specialist – Digital Egypt Pioneers Initiative (DEPI)
+
+<p>
+<a href="https://www.linkedin.com/in/a7med-alaa121206">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://ahmedalaa-analytics1.odoo.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-714B67?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+<a href="mailto:aa4666297@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you find this repository useful, consider giving it a star!**
+
+*Learning by building. Improving through practice.*
+
+</div>
