@@ -1,4 +1,4 @@
-<div align="center">
+د<div align="center">
 
 # 🐍 Python Data Analysis & Engineering
 
@@ -19,10 +19,13 @@ API Integration, Data Wrangling, and Database Engineering.
 
 <p>
 <a href="https://www.linkedin.com/in/a7med-alaa121206">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://ahmedalaa-analytics1.odoo.com">
-<img src="https://img.shields.io/badge/Portfolio-Explore-714B67?style=for-the-badge&logo=googlechrome&logoColor=white">
+<a href="mailto:aa4666297@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://wa.me/201011913145">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 </p>
 
@@ -76,11 +79,11 @@ My goal is to build practical solutions that combine analytical thinking with pr
 <td>Python<br>Pandas<br>NumPy<br>Matplotlib<br>Seaborn</td>
 <td>
 <ul>
-<li>Identifying respondents with identical response patterns.</li>
-<li>Distinguishing shared answers from duplicate records.</li>
-<li>Analyzing frequently shared values across multiple columns.</li>
-<li>Exploring response distributions by Country and Employment.</li>
-<li>Visualizing response patterns using bar charts and pie charts.</li>
+<li>Analyzing response patterns across survey participants.</li>
+<li>Exploring distributions of shared responses.</li>
+<li>Identifying frequently occurring response values.</li>
+<li>Analyzing responses by Country and Employment.</li>
+<li>Visualizing distributions using bar charts and pie charts.</li>
 </ul>
 </td>
 </tr>
@@ -190,7 +193,7 @@ My goal is to build practical solutions that combine analytical thinking with pr
 |---|---|
 | Data Analysis | Exploratory Data Analysis (EDA) |
 | Data Wrangling | Missing Values, Mapping & Transformation |
-| Response Pattern Analysis | Identifying Shared Responses & Response Distributions |
+| Response Pattern Analysis | Shared Responses & Response Distributions |
 | API Integration | HTTP Requests, REST APIs & JSON |
 | Database Engineering | SQLite & Data Persistence |
 | Python Programming | Functions, Libraries & Data Structures |
@@ -261,13 +264,13 @@ Certified Data Analyst Specialist – Digital Egypt Pioneers Initiative (DEPI)
 
 <p>
 <a href="https://www.linkedin.com/in/a7med-alaa121206">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://ahmedalaa-analytics1.odoo.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-714B67?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:aa4666297@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://wa.me/201011913145">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 </p>
 
