@@ -1,4 +1,4 @@
-د<div align="center">
+<div align="center">
 
 # 🐍 Python Data Analysis & Engineering
 
@@ -84,6 +84,23 @@ My goal is to build practical solutions that combine analytical thinking with pr
 <li>Identifying frequently occurring response values.</li>
 <li>Analyzing responses by Country and Employment.</li>
 <li>Visualizing distributions using bar charts and pie charts.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<b>🧹 Python Data Cleaning – Duplicates & Missing Values</b><br>
+<a href="./Python_Data_Cleaning_Duplicates_Missing_Values.ipynb">Explore Notebook →</a>
+</td>
+<td>Python<br>Pandas<br>NumPy</td>
+<td>
+<ul>
+<li>Detecting and identifying duplicate rows.</li>
+<li>Removing duplicate records while preserving unique data.</li>
+<li>Analyzing missing values across dataset columns.</li>
+<li>Applying Mode Imputation to categorical data.</li>
+<li>Verifying missing values after imputation.</li>
 </ul>
 </td>
 </tr>
@@ -192,6 +209,7 @@ My goal is to build practical solutions that combine analytical thinking with pr
 | Area | Practical Skills |
 |---|---|
 | Data Analysis | Exploratory Data Analysis (EDA) |
+| Data Cleaning | Duplicate Detection, Removal & Missing Value Handling |
 | Data Wrangling | Missing Values, Mapping & Transformation |
 | Response Pattern Analysis | Shared Responses & Response Distributions |
 | API Integration | HTTP Requests, REST APIs & JSON |
@@ -239,6 +257,8 @@ Python-Data-Analysis-Notebooks/
 ├── Developer Survey EDA & Data Wrangling.ipynb
 │
 ├── Developer-Survey-Response-Pattern-Analysis.ipynb
+│
+├── Python_Data_Cleaning_Duplicates_Missing_Values.ipynb
 │
 ├── Job Market API Data Ingestion & SQL ETL.ipynb
 │
